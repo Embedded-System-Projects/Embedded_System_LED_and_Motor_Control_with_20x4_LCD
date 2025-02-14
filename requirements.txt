@@ -1,0 +1,14 @@
+                     # Steps for successful simulation
+
+=> Step 1: open LM35-PIC16F877A-LEDs-20x4_LCD-MOTOR-PUSH-BUTTONS proteus project
+=> Step 2: double click on the PIC16F877A Microcontroller, 
+           go to the program file row and click the folder icon
+=> Step 3: find and click on LM35_PIC16F877A_LEDs_20X4_LCD_MOTOR_PUSH_BUTTONS.X.production.hex inside the hex file folder
+=> Step 4: Finally its done! you may now run the simulation!
+
+                     # Project description
+
+=> This project is done using the following softwares
+      * Proteus (Version 8.10)
+      * MPLAB X IDE and XC8 compiler (Used for generating the hex file)
+
